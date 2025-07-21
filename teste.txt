@@ -1,0 +1,15 @@
+COMANDOS TERMINAL
+ls = lista todas as pastas e arquivos do meu workspace
+ls -a = mostra arquivos ocultos
+cd <nome da pasta> = acessar a pasta (muda de diretório)
+cd .. = retorna uma pasta acima da última pasta
+cd . = é a referência da própria pasta (PASTA ATUAL)
+pwd (printing work directory) = caminho absoluto do diretório (mostra ONDE estou)
+mkdir = cria uma pasta nova. Ex: mkdir <nome da pasta>
+cat <nome arquivo> = mostra o que tem dentro do arquivo
+rm -rf <nome da pasta> = excluir uma pasta. Ex: rm -rf .git/
+
+TORNAR A PASTA "ESPECIAL" ("GITÁVEL")
+git config --global user.email "rodrigo_pasqualucci@hotmail.com"
+git config --global user.name "Rodrigo Pasqualucci"
+git init . = agora está pasta se tornará uma pasta "gitável"
