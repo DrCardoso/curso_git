@@ -13,3 +13,4 @@ TORNAR A PASTA "ESPECIAL" ("GITÁVEL")
 git config --global user.email "rodrigo_pasqualucci@hotmail.com"
 git config --global user.name "Rodrigo Pasqualucci"
 git init . = agora está pasta se tornará uma pasta "gitável"
+git log = mostra todos os commits realizados 
