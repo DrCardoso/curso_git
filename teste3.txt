@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Minhas aulas de git com o pasqualucci
-=======
-Minhas primeira aulas de git com o rodrigo pasqualucci
->>>>>>> branch_segundo
